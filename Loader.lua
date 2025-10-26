@@ -2,6 +2,8 @@
 -- yes you can skid ts.
 -- we do not care abt the key system
 
+--bruhh
+
 local HttpService = game:GetService("HttpService")
 local StarterGui = game:GetService("StarterGui")
 
